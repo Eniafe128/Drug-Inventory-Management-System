@@ -4,6 +4,11 @@ Drug inventory management system built with basic Python concepts
 ## Project Overview
 This project was developed as Case Study Project #2 for the Python Study Group. It simulates a simple drug inventory management system for HealthyLife Pharmacy using only basic Python concepts.
 
+## About the Project
+The Drug Inventory Management System is a beginner-friendly Python application developed as part of the Python Study Group Case Study Project #2. It simulates a simple inventory management system for HealthyLife Pharmacy, where drug stock is monitored and updated using fundamental Python programming concepts. 
+
+The project addresses common inventory management challenges faced by pharmacies, such as inaccurate stock calculations, unnoticed stock shortages, expired medications remaining on shelves, poor profit estimation, and inefficient purchasing decisions.
+
 ## Project Goal
 To build a drug inventory checker that:
 - Calculates remaining stock
@@ -63,6 +68,15 @@ project/
 presentation/
 report/
 README.md
+
+## Project Impact
+1. Improves inventory accuracy by automatically calculating remaining stock after sales.
+2. Helps pharmacists identify when drugs need to be restocked, reducing the risk of stockouts.
+3. Calculates daily sales revenue, supporting better financial tracking and profit estimation.
+4. Checks whether a drug has expired before it is considered safe for sale.
+5. Identifies drugs eligible for promotional discounts based on stock level or revenue.
+6. Demonstrates how basic Python concepts can be used to solve practical healthcare and pharmacy management problems.
+
 
 ## Author
 Ayomide Eniafe
